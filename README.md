@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Cauã 👋</h1>
 
 <p align="center">
-  Estudante de programação, me preparando para cursar Ciência da Computação e construir carreira como desenvolvedor.
+  Estudante de programação, me preparando para cursar Ciência da Computação e construir carreira como desenvolvedor de software.
 </p>
 
 ---
