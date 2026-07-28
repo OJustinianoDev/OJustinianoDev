@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Cauã 👋</h1>
 
 <p align="center">
-  Estudante de programação, me preparando para cursar Ciência da Computação e construir carreira como desenvolvedor de software.
+    Estudante de programação, me preparando para cursar Ciência da Computação e construir carreira como desenvolvedor de software.
 </p>
 
 ---
@@ -24,13 +24,5 @@
 ### 📌 Projeto em destaque
 
 - **Sistema de Cadastro em Terminal** — meu primeiro projeto Python do início ao fim: menu com adicionar, listar, buscar e remover registros, usando listas e laços.
-
-### 📊 Estatísticas
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=OJustinianoDev&show_icons=true&theme=dark" />
-</p>
-
----
 
 <p align="center"><i>Em constante aprendizado 🚀</i></p>
