@@ -8,7 +8,7 @@
 
 ### 🔭 Sobre mim
 
-- 💻 Estudando lógica de programação e **Python**
+- 💻 Estudando **Python**
 - 📚 Próximos passos na trilha: SQL → Git/GitHub → Java
 - 🎯 Objetivo: atuar como desenvolvedor em banco ou fintech
 - 🇧🇷 São Paulo, Brasil
