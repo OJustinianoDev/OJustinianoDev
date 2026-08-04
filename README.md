@@ -10,7 +10,7 @@
 
 - 💻 Estudando **Python**
 - 📚 Próximos passos na trilha: SQL → Git/GitHub → Java
-- 🎯 Objetivo: atuar como desenvolvedor em banco ou fintech
+- 🎯 Objetivo: atuar como desenvolvedor
 - 🇧🇷 São Paulo, Brasil
 
 ### 🛠️ Stack em construção
