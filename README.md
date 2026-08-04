@@ -21,8 +21,4 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-### 📌 Projeto em destaque
-
-- **Sistema de Cadastro em Terminal** — meu primeiro projeto Python do início ao fim: menu com adicionar, listar, buscar e remover registros, usando listas e laços.
-
 <p align="center"><i>Em constante aprendizado 🚀</i></p>
