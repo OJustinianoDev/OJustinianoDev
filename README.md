@@ -8,7 +8,7 @@
 
 ### 🔭 Sobre mim
 
-- 💻 Estudando **Python**
+- 💻 Estudando **Python** atualmente
 - 📚 Próximos passos na trilha: SQL → Git/GitHub → Java
 - 🎯 Objetivo: atuar como desenvolvedor
 - 🇧🇷 São Paulo, Brasil
