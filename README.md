@@ -10,7 +10,7 @@
 
 - 💻 Estudando **Python** — fundamentos concluídos (tuplas, listas, dicionários, funções, módulos, tratamento de erros); atualmente em **POO**
 - 🗺️ Seguindo um roadmap próprio: Python → SQL → Git/GitHub → Java/Spring Boot
-- 🎯 Objetivo: atuar como desenvolvedor back-end em banco ou fintech
+- 🎯 Objetivo: atuar como desenvolvedor back-end
 - 🇧🇷 São Paulo, Brasil
 
 ### 🛠️ Stack em construção
