@@ -14,6 +14,8 @@ Estudante de programação, rumo à Ciência da Computação e uma carreira como
 
 ### 🧰 Stack atual
 
-[PYTHON] [SQL em breve] [JAVA em breve]
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-em%20breve-lightgrey?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-em%20breve-lightgrey?style=for-the-badge&logo=openjdk&logoColor=white)
 
 *Em constante aprendizado 🚀*
