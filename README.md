@@ -1,24 +1,19 @@
-<h1 align="center">Olá, eu sou o Cauã 👋</h1>
+# Olá, eu sou o Cauã 👋
 
-<p align="center">
-    Estudante de programação, rumo a Ciência da Computação e uma carreira como dev back-end.
-</p>
+Estudante de programação, rumo à Ciência da Computação e uma carreira como dev back-end.
 
 ---
 
-### 🔭 Sobre mim
+### 🛠 Sobre mim
 
-- 💻 Estudando **Python** — fundamentos concluídos (tuplas, listas, dicionários, funções, módulos, tratamento de erros); atualmente em **POO**
-- 🗺️ Seguindo um roadmap próprio: Python → SQL → Git/GitHub → Java/Spring Boot
-- 🎯 Objetivo: atuar como desenvolvedor back-end
+- 💻 Estudando **Python** — fundamentos concluídos (tuplas, listas, dicionários, funções, módulos, tratamento de erros e POO)
+- 🗺️ Roadmap próprio: Python → Git/GitHub → SQL → Java/Spring Boot/APIs REST
+- 🎯 Objetivo: atuar como desenvolvedor back-end no mercado financeiro
+- 🎓 Ciência da Computação na FIAP a partir de fevereiro/2027
 - 🇧🇷 São Paulo, Brasil
 
-### 🛠️ Stack em construção
+### 🧰 Stack atual
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+[PYTHON] [SQL em breve] [JAVA em breve]
 
-<p align="center"><i>Em constante aprendizado 🚀
+*Em constante aprendizado 🚀*
