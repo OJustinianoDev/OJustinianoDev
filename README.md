@@ -12,10 +12,7 @@ Estudante de programação, rumo à Ciência da Computação e uma carreira como
 - 🎯 Objetivo: atuar como desenvolvedor back-end no mercado financeiro
 - 🎓 Ciência da Computação na FIAP a partir de fevereiro/2027
 - 🇧🇷 São Paulo, Brasil
-
-Ah entendi, os badges com ícone tipo shields.io! Aqui vai mantendo esse estilo:
-
-markdown
+- 
 ## 📦 Stack atual
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
