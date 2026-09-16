@@ -6,6 +6,7 @@ Estudante de programação, rumo à Ciência da Computação e uma carreira como
 
 ## 🛠️ Sobre mim
 - 💻 Python e POO concluídos — fundamentos, tuplas, listas, dicionários, funções, módulos, tratamento de erros e orientação a objetos
+- ☕ Java básico concluído — sintaxe, estruturas condicionais e de repetição; agora avançando para Java POO
 - 🔧 Git & GitHub concluído — versionamento e fluxo de repositórios
 - 🗃️ Banco de Dados (SQL) concluído — MySQL, com projeto prático (bank-account-simulator V2) e transição planejada para PostgreSQL
 - 🗺️ Roadmap próprio: Python → Git/GitHub → SQL → Java/Spring Boot/APIs REST
