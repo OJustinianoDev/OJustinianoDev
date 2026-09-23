@@ -1,6 +1,6 @@
 # Olá, eu sou o Cauã 👋
 
-Estudante de programação, rumo à Ciência da Computação e uma carreira como dev back-end.
+Estudante de programação, rumo à uma carreira como dev back-end.
 
 ---
 
