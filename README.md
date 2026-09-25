@@ -4,15 +4,15 @@ Estudante de programação, rumo à uma carreira como dev back-end.
 
 ---
 
-## 🛠️ Sobre mim
-- 💻 Python e POO concluídos — fundamentos, tuplas, listas, dicionários, funções, módulos, tratamento de erros e orientação a objetos
-- ☕ Java básico concluído — sintaxe, estruturas condicionais e de repetição; agora avançando para Java POO
-- 🔧 Git & GitHub concluído — versionamento e fluxo de repositórios
-- 🗃️ Banco de Dados (SQL) concluído — MySQL, com projeto prático (bank-account-simulator V2) e transição planejada para PostgreSQL
-- 🗺️ Roadmap próprio: Python → Git/GitHub → SQL → Java/Spring Boot/APIs REST
-- 🎯 Objetivo: atuar como desenvolvedor back-end no mercado financeiro
-- 🎓 Ciência da Computação na FIAP a partir de fevereiro/2027
-- 🇧🇷 São Paulo, Brasil
+### 🛠️ Sobre mim
+
+* ☕ Java concluído (básico + Git/GitHub) — sintaxe, estruturas condicionais e de repetição, versionamento e fluxo de repositórios; atualmente em Java POO
+* 💻 Python e POO concluídos — fundamentos, tuplas, listas, dicionários, funções, módulos, tratamento de erros e orientação a objetos
+* 🗃️ Banco de Dados (SQL) concluído — MySQL, com projeto prático (bank-account-simulator V2) e transição planejada para PostgreSQL
+* 🗺️ Roadmap próprio: Java POO → Spring Boot/APIs REST (com Python e SQL como base já construída)
+* 🎯 Objetivo: atuar como desenvolvedor back-end no mercado financeiro
+* 🎓 Ciência da Computação na FIAP
+* 🇧🇷 São Paulo, Brasil
   
 ## 📦 Stack atual
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
