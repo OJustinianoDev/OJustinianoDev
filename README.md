@@ -10,7 +10,7 @@ Futuro Back-end Java
 * 🔧 Git & GitHub concluído — versionamento e fluxo de repositórios
 * 💻 Python e POO concluídos — fundamentos, tuplas, listas, dicionários, funções, módulos, tratamento de erros e orientação a objetos
 * 🗃️ Banco de Dados (SQL) concluído — MySQL, com projeto prático (bank-account-simulator V2) e transição planejada para PostgreSQL
-* 🗺️ Roadmap próprio: Java POO → Spring Boot/APIs REST
+* 🗺️ Roadmap próprio: Python → Git/GitHub → SQL → Java/Spring Boot/APIs REST
 * 🎯 Objetivo: atuar como desenvolvedor back-end no mercado financeiro
 * 🎓 Ciência da Computação na FIAP
 * 🇧🇷 São Paulo, Brasil
