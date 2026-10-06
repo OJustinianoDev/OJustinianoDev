@@ -6,7 +6,7 @@ Futuro Back-end Java
 
 ### 🛠️ Sobre mim
 
-* ☕ Java básico concluído — sintaxe, estruturas condicionais e de repetição; atualmente em Java POO
+* ☕ Java e POO concluídos — sintaxe, estruturas condicionais e de repetição, classes, objetos, encapsulamento, herança, polimorfismo e abstração
 * 🔧 Git & GitHub concluído — versionamento e fluxo de repositórios
 * 💻 Python e POO concluídos — fundamentos, tuplas, listas, dicionários, funções, módulos, tratamento de erros e orientação a objetos
 * 🗃️ Banco de Dados (SQL) concluído — MySQL, com projeto prático (bank-account-simulator V2) e transição planejada para PostgreSQL
