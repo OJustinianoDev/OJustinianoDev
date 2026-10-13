@@ -1,32 +1,41 @@
-## Olá, eu sou o Cauã 👋
+# Olá, eu sou o Cauã 👋
 
-Futuro Back-end Java 
-
----
-
-### 🛠️ Sobre mim
-
-* ☕ Java e POO concluídos — sintaxe, estruturas condicionais e de repetição, classes, objetos, encapsulamento, herança, polimorfismo e abstração
-* 🔧 Git & GitHub concluído — versionamento e fluxo de repositórios
-* 💻 Python e POO concluídos — fundamentos, tuplas, listas, dicionários, funções, módulos, tratamento de erros e orientação a objetos
-* 🗃️ Banco de Dados (SQL) concluído — MySQL, com projeto prático (bank-account-simulator V2) e transição planejada para PostgreSQL
-* 🗺️ Roadmap próprio: Python → Git/GitHub → SQL → Java/Spring Boot/APIs REST
-* 🎯 Objetivo: atuar como desenvolvedor back-end no mercado financeiro
-* 🎓 Ciência da Computação na FIAP
-* 🇧🇷 São Paulo, Brasil
+**Estudante de Ciência da Computação (FIAP) · Futuro Back-end Java** 🚀
 
 ---
 
-### 🧰 Stacks
+## 🛠️ Sobre mim
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+Estou construindo minha base em back-end com **Java** e **Python**, sempre com POO e banco de dados. Já concluí meus estudos de Git/GitHub e MySQL, e agora o foco é Java com Spring Boot e APIs REST.
+
+- 🎓 Ciência da Computação na FIAP
+- 🇧🇷 São Paulo, Brasil
 
 ---
 
-### 🔗 Links
+## 🧰 Stacks
+
+![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**Em breve:**
+
+![Spring Boot](https://img.shields.io/badge/SPRING_BOOT-EM_BREVE-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![API REST](https://img.shields.io/badge/API_REST-EM_BREVE-lightgrey?style=for-the-badge)
+
+---
+
+## 🚀 Projetos
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [bank-account-simulatorV2](https://github.com/OJustinianoDev/bank-account-simulatorV2) | Simulador de conta bancária com POO e persistência em MySQL: contas, depósitos, saques e extrato | Python · MySQL |
+| [Simple-Reservation-System](https://github.com/OJustinianoDev/Simple-Reservation-System) | Gerenciador de reservas via console (criar, consultar, remarcar e cancelar). Próximo passo: persistência com MySQL | Java |
+
+---
+
+## 🔗 Links
 [LinkedIn](https://www.linkedin.com/in/cauã-justiniano) · [Instagram](https://instagram.com/ojustiniano07)
-
