@@ -28,15 +28,5 @@ Estou construindo minha base em back-end com **Java** e **Python**, sempre com P
 
 ---
 
-## 🚀 Projetos
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [bank-account-simulatorV2](https://github.com/OJustinianoDev/bank-account-simulatorV2) | Simulador de conta bancária com POO e persistência em MySQL: contas, depósitos, saques e extrato | Python · MySQL |
-| [Crud-Reservation-System](https://github.com/OJustinianoDev/Crud-Reservation-System) | Sistema de gerenciamento de reservas com operações CRUD, cadastro de clientes e persistência em banco de dados | Java · JDBC · MySQL |
-| [Simple-Reservation-System](https://github.com/OJustinianoDev/Simple-Reservation-System) | Versão inicial do sistema de reservas, desenvolvido em Java puro e executado pelo terminal, sem banco de dados | Java |
-
----
-
 ## 🔗 Links
 [LinkedIn](https://www.linkedin.com/in/cauã-justiniano) · [Instagram](https://instagram.com/ojustiniano07)
